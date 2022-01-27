@@ -13,6 +13,7 @@ None
 3) **Execute:** `python sine_wave.py`
 
 ### Screenshot/GIF showing the sample use of the script
+
 ![Screenshot of the sine_wave.py file](screenshot.png)
 
 
