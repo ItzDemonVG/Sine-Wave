@@ -4,7 +4,7 @@ The image below demonstrates the equation of a sine wave.
 
   ![Screenshot of the sine wave equation](equation.PNG)
   
-   ![source](https://www.mathsisfun.com/algebra/amplitude-period-frequency-phase-shift.html)
+   [source -- (https://www.mathsisfun.com/algebra/amplitude-period-frequency-phase-shift.html) ]
 
 ### Prerequisites
 None
