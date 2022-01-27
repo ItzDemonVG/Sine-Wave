@@ -2,8 +2,8 @@
 This script draws a sine wave using the built-in Python library Turtle.
 The image below demonstrates the equation of a sine wave.
 
-  [Screenshot of the sine wave equation](equation.png).
-    [source](https://www.mathsisfun.com/algebra/amplitude-period-frequency-phase-shift.html)
+  ![Screenshot of the sine wave equation](equation.png).
+    ![source](https://www.mathsisfun.com/algebra/amplitude-period-frequency-phase-shift.html)
 
 ### Prerequisites
 None
@@ -21,5 +21,5 @@ None
 ## *Author*
 The Refrence was taken from Echoaj
                 
-[echoaj](https://github.com/echoaj)
+![echoaj](https://github.com/echoaj)
 
