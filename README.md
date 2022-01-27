@@ -22,5 +22,5 @@ None
 ## *Author*
 The Refrence was taken from Echoaj
                 
-![echoaj](https://github.com/echoaj)
+[echoaj](https://github.com/echoaj)
 
