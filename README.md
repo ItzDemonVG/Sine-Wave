@@ -16,7 +16,7 @@ None
 
 ### Screenshot/GIF showing the sample use of the script
 
-   [Screenshot of the sine_wave.py file](screenshot.PNG)
+   ![Screenshot of the sine_wave.py file](screenshot.PNG)
 
 
 ## *Author*
